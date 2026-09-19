@@ -2,7 +2,7 @@
 
 **Unidad de Aprendizaje:** Bases de Datos  
 **Carrera:** Ingeniería en Sistemas Computacionales  
-**Grupo:** [Tu Grupo, ej. 3CM1 / 3CV1]  
+**Grupo:** 3CV2  
 **Institución:** Escuela Superior de Cómputo (ESCOM) – Instituto Politécnico Nacional (IPN)  
 
 ---
